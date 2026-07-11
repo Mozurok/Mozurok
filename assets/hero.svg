@@ -21,7 +21,7 @@
     <circle cx="76" cy="66" r="6" fill="#ef8e7d"/>
     <circle cx="98" cy="66" r="6" fill="#e8b84a"/>
     <circle cx="120" cy="66" r="6" fill="#3ddc97"/>
-    <text x="600" y="70" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="13" fill="#a3adb0">~/bruno-mazurok — zsh</text>
+    <text x="600" y="70" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="13" fill="#a3adb0">~/bruno-mazurok · zsh</text>
     <line x1="48" y1="88" x2="1152" y2="88" stroke="#262c2f" stroke-width="1"/>
 
     <!-- prompt -->

@@ -50,21 +50,20 @@ I work across the stack: React, React Native, TypeScript, and Next.js on the fro
 
 | Where | What |
 | --- | --- |
-| **Coinbase Wallet** (via X-Team, 2021–2026) | Crypto purchase flow on web and mobile. Shared React and TypeScript design-system components. Backend services in Node.js and Go across data, identity, and payments. Daily AI-assisted development. |
-| **Admios** (2020–2021) | React front ends and Node.js APIs. Led a CoffeeScript to React migration. TDD and rigorous code review. |
+| **Coinbase Wallet** (via X-Team, 2021-2026) | Crypto purchase flow on web and mobile. Shared React and TypeScript design-system components. Backend services in Node.js and Go across data, identity, and payments. Daily AI-assisted development. |
+| **Admios** (2020-2021) | React front ends and Node.js APIs. Led a CoffeeScript to React migration. TDD and rigorous code review. |
 | **Objective Solutions** (2020) | Healthcare scheduling system in Java, Node.js, and React. Algolia search integration. |
-| **Addwisers** (2018–2020) | Real-time video platform with WebRTC and Socket.io. React front end, Node.js and Java back end, MongoDB. |
+| **Addwisers** (2018-2020) | Real-time video platform with WebRTC and Socket.io. React front end, Node.js and Java back end, MongoDB. |
 
 Earlier: ERP systems, real-time protocols, and full-stack product work in Python (Django), Node.js, and PHP since 2011.
 
 ---
 
-## GitHub
+## Status
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mozurok&show_icons=true&hide_border=true&bg_color=0b0d0e&title_color=3ddc97&icon_color=6db3f2&text_color=a3adb0" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozurok&layout=compact&hide_border=true&bg_color=0b0d0e&title_color=3ddc97&text_color=a3adb0" alt="Top languages" />
+<img src="assets/focus.svg" alt="Current focus and availability" width="100%" />
 
 </div>
 

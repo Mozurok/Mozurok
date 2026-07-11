@@ -1,0 +1,36 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current focus and availability">
+  <defs>
+    <pattern id="gridF" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#262c2f" stroke-width="1" stroke-opacity="0.4"/>
+    </pattern>
+    <clipPath id="roundF"><rect width="1200" height="280" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#roundF)" font-family="ui-monospace, 'SF Mono', Menlo, monospace">
+    <rect width="1200" height="280" fill="#0b0d0e"/>
+    <rect width="1200" height="280" fill="url(#gridF)"/>
+
+    <text x="48" y="52" font-size="16" fill="#3ddc97">$ <tspan fill="#a3adb0">status</tspan></text>
+    <line x1="48" y1="72" x2="1152" y2="72" stroke="#262c2f" stroke-width="1"/>
+
+    <!-- building -->
+    <circle cx="60" cy="112" r="6" fill="#3ddc97"/>
+    <text x="80" y="117" font-size="16" font-weight="700" fill="#3ddc97">building</text>
+    <text x="260" y="117" font-size="15" fill="#e8eae8">Fhorja, a workflow OS for AI-assisted engineering</text>
+
+    <!-- shipped -->
+    <circle cx="60" cy="152" r="6" fill="#6db3f2"/>
+    <text x="80" y="157" font-size="16" font-weight="700" fill="#6db3f2">shipped</text>
+    <text x="260" y="157" font-size="15" fill="#e8eae8">5 years on Coinbase Wallet, web and mobile</text>
+
+    <!-- open to -->
+    <circle cx="60" cy="192" r="6" fill="#b79df5"/>
+    <text x="80" y="197" font-size="16" font-weight="700" fill="#b79df5">open&#8202;to</text>
+    <text x="260" y="197" font-size="15" fill="#e8eae8">senior / staff full-stack + AI engineering roles</text>
+
+    <!-- based -->
+    <circle cx="60" cy="232" r="6" fill="#e8b84a"/>
+    <text x="80" y="237" font-size="16" font-weight="700" fill="#e8b84a">based&#8202;in</text>
+    <text x="260" y="237" font-size="15" fill="#e8eae8">Paraná, Brazil · remote · English &amp; Portuguese</text>
+  </g>
+</svg>
