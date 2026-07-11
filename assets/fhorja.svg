@@ -1,0 +1,40 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fhorja — a workflow operating system for AI-assisted engineering">
+  <defs>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ddc97"/>
+      <stop offset="0.16" stop-color="#6db3f2"/>
+      <stop offset="0.33" stop-color="#f28ba8"/>
+      <stop offset="0.5" stop-color="#b79df5"/>
+      <stop offset="0.66" stop-color="#e8b84a"/>
+      <stop offset="0.83" stop-color="#59d6db"/>
+      <stop offset="1" stop-color="#f0a568"/>
+    </linearGradient>
+    <clipPath id="round3"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round3)" font-family="ui-monospace, 'SF Mono', Menlo, monospace">
+    <rect width="1200" height="300" fill="#14181a"/>
+    <rect x="0" y="0" width="1200" height="6" fill="url(#spectrum)"/>
+    <ellipse cx="1000" cy="60" rx="360" ry="180" fill="#3ddc97" fill-opacity="0.05"/>
+
+    <text x="48" y="76" font-size="13" fill="#a3adb0">featured project</text>
+    <text x="46" y="120" font-size="38" font-weight="700" fill="#e8eae8">Fhorja</text>
+    <text x="200" y="120" font-size="16" fill="#3ddc97">fhorja.dev</text>
+
+    <text x="48" y="162" font-size="17" fill="#a3adb0">A workflow operating system for AI-assisted engineering.</text>
+    <text x="48" y="190" font-size="15" fill="#a3adb0">Markdown + bash + a small Python helper. Routing, task memory,</text>
+    <text x="48" y="212" font-size="15" fill="#a3adb0">and closure guarantees for agent-driven work. Built and dogfooded solo.</text>
+
+    <!-- chips -->
+    <g font-size="13" fill="#e8eae8">
+      <rect x="48" y="240" width="150" height="30" rx="15" fill="#0b0d0e" stroke="#262c2f"/>
+      <text x="123" y="260" text-anchor="middle">94 commands</text>
+      <rect x="210" y="240" width="170" height="30" rx="15" fill="#0b0d0e" stroke="#262c2f"/>
+      <text x="295" y="260" text-anchor="middle">agent orchestration</text>
+      <rect x="392" y="240" width="150" height="30" rx="15" fill="#0b0d0e" stroke="#262c2f"/>
+      <text x="467" y="260" text-anchor="middle">AGPL-3.0 (soon)</text>
+      <rect x="554" y="240" width="130" height="30" rx="15" fill="#0b0d0e" stroke="#262c2f"/>
+      <text x="619" y="260" text-anchor="middle">spec-driven</text>
+    </g>
+  </g>
+</svg>

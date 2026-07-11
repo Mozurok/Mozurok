@@ -1,0 +1,47 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technology stack">
+  <defs>
+    <pattern id="grid2" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#262c2f" stroke-width="1" stroke-opacity="0.4"/>
+    </pattern>
+    <clipPath id="round2"><rect width="1200" height="360" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round2)" font-family="ui-monospace, 'SF Mono', Menlo, monospace">
+    <rect width="1200" height="360" fill="#0b0d0e"/>
+    <rect width="1200" height="360" fill="url(#grid2)"/>
+
+    <text x="48" y="52" font-size="16" fill="#3ddc97">$ <tspan fill="#a3adb0">cat</tspan> <tspan fill="#e8eae8">stack.txt</tspan></text>
+    <line x1="48" y1="72" x2="1152" y2="72" stroke="#262c2f" stroke-width="1"/>
+
+    <!-- rows: dot + label + items -->
+    <!-- Frontend -->
+    <circle cx="60" cy="112" r="6" fill="#3ddc97"/>
+    <text x="80" y="117" font-size="16" font-weight="700" fill="#3ddc97">frontend</text>
+    <text x="250" y="117" font-size="15" fill="#e8eae8">React · React Native · TypeScript · Next.js · Tailwind</text>
+
+    <!-- Backend -->
+    <circle cx="60" cy="152" r="6" fill="#6db3f2"/>
+    <text x="80" y="157" font-size="16" font-weight="700" fill="#6db3f2">backend</text>
+    <text x="250" y="157" font-size="15" fill="#e8eae8">Node.js · Go · Python (FastAPI, Django) · GraphQL</text>
+
+    <!-- AI -->
+    <circle cx="60" cy="192" r="6" fill="#b79df5"/>
+    <text x="80" y="197" font-size="16" font-weight="700" fill="#b79df5">ai&#8202;stack</text>
+    <text x="250" y="197" font-size="15" fill="#e8eae8">Anthropic Claude · OpenAI · RAG · agent design · evals</text>
+
+    <!-- Data -->
+    <circle cx="60" cy="232" r="6" fill="#e8b84a"/>
+    <text x="80" y="237" font-size="16" font-weight="700" fill="#e8b84a">data</text>
+    <text x="250" y="237" font-size="15" fill="#e8eae8">PostgreSQL · Redis · MongoDB · Elasticsearch · D3</text>
+
+    <!-- Cloud -->
+    <circle cx="60" cy="272" r="6" fill="#59d6db"/>
+    <text x="80" y="277" font-size="16" font-weight="700" fill="#59d6db">cloud&#8202;/&#8202;ci</text>
+    <text x="250" y="277" font-size="15" fill="#e8eae8">AWS · GCP · Azure · Docker · GitHub Actions</text>
+
+    <!-- Testing -->
+    <circle cx="60" cy="312" r="6" fill="#f28ba8"/>
+    <text x="80" y="317" font-size="16" font-weight="700" fill="#f28ba8">testing</text>
+    <text x="250" y="317" font-size="15" fill="#e8eae8">Cypress · Playwright · Maestro · TDD</text>
+  </g>
+</svg>
