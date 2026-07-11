@@ -1,0 +1,40 @@
+<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Building AI-powered workflows in production">
+  <defs>
+    <pattern id="gridB" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#262c2f" stroke-width="1" stroke-opacity="0.5"/>
+    </pattern>
+    <radialGradient id="glowB" cx="0.14" cy="0.78" r="0.5">
+      <stop offset="0" stop-color="#3ddc97" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#3ddc97" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="arcFill" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0.75" stop-color="#11201b" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0b0d0e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1584" height="396" fill="#0b0d0e"/>
+  <rect width="1584" height="396" fill="url(#gridB)"/>
+  <rect width="1584" height="396" fill="url(#glowB)"/>
+
+  <!-- planet-limb arc in the lower-left, brand-green rim light -->
+  <circle cx="120" cy="640" r="410" fill="url(#arcFill)"/>
+  <circle cx="120" cy="640" r="410" fill="none" stroke="#3ddc97" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="120" cy="640" r="418" fill="none" stroke="#6db3f2" stroke-width="10" stroke-opacity="0.06"/>
+
+  <!-- faint dither dots top-right -->
+  <g fill="#3ddc97" fill-opacity="0.22">
+    <circle cx="1500" cy="40" r="1.5"/><circle cx="1524" cy="58" r="1.5"/><circle cx="1548" cy="42" r="1.5"/>
+    <circle cx="1482" cy="66" r="1.5"/><circle cx="1516" cy="84" r="1.5"/><circle cx="1546" cy="70" r="1.5"/>
+  </g>
+
+  <!-- headline -->
+  <text x="540" y="150" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#e8eae8">Building AI-powered</text>
+  <text x="540" y="214" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#e8eae8">workflows in production</text>
+
+  <!-- accent underline -->
+  <rect x="542" y="242" width="92" height="5" rx="2.5" fill="#3ddc97"/>
+
+  <!-- kicker -->
+  <text x="542" y="300" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="4" fill="#a3adb0">SENIOR ENGINEER<tspan fill="#3ddc97">  ·  </tspan>AI SYSTEMS<tspan fill="#3ddc97">  ·  </tspan>SCALABLE SOLUTIONS</text>
+</svg>
