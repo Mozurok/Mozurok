@@ -32,7 +32,7 @@
       <rect x="210" y="240" width="170" height="30" rx="15" fill="#0b0d0e" stroke="#262c2f"/>
       <text x="295" y="260" text-anchor="middle">agent orchestration</text>
       <rect x="392" y="240" width="150" height="30" rx="15" fill="#0b0d0e" stroke="#262c2f"/>
-      <text x="467" y="260" text-anchor="middle">AGPL-3.0 (soon)</text>
+      <text x="467" y="260" text-anchor="middle">MIT license</text>
       <rect x="554" y="240" width="130" height="30" rx="15" fill="#0b0d0e" stroke="#262c2f"/>
       <text x="619" y="260" text-anchor="middle">spec-driven</text>
     </g>

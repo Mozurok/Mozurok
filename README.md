@@ -42,7 +42,7 @@ I work across the stack: React, React Native, TypeScript, and Next.js on the fro
 
 </div>
 
-**[Fhorja](https://fhorja.dev)** is a workflow operating system for AI-assisted engineering that I design and build. It gives an AI agent explicit routing, durable task memory, and closure guarantees, so the agent proposes the work and the system owns the state. Markdown, bash, and a small Python helper. Spec-driven, with a curated command set and a bug-class library. Built and dogfooded solo, heading toward an AGPL-3.0 public release.
+**[Fhorja](https://fhorja.dev)** is a workflow operating system for AI-assisted engineering that I design and build. It gives an AI agent explicit routing, durable task memory, and closure guarantees, so the agent proposes the work and the system owns the state. Markdown, bash, and a small Python helper. Spec-driven, with a curated command set and a bug-class library. Built and dogfooded solo, released open source under the MIT license.
 
 ## Status
 
