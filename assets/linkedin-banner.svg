@@ -1,40 +1,26 @@
-<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Building AI-powered workflows in production">
-  <defs>
-    <pattern id="gridB" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#262c2f" stroke-width="1" stroke-opacity="0.5"/>
-    </pattern>
-    <radialGradient id="glowB" cx="0.14" cy="0.78" r="0.5">
-      <stop offset="0" stop-color="#3ddc97" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#3ddc97" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="arcFill" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0.75" stop-color="#11201b" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#0b0d0e" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" fill="none" role="img" aria-label="Building AI-powered workflows in production. Senior engineer, AI systems, scalable solutions." aria-labelledby="title">
+<title id="title">Building AI-powered workflows in production. Senior engineer, AI systems, scalable solutions.</title>
+<defs>
+<style>@font-face{font-family:'IBM Plex Mono';font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAUcAA4AAAAACVQAAATKAAIAxAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwwBmAAdBEQCokUhx0BNgIkAyYLJgAEIAWDGgcgG0AHUZQwTifAj8TYVsNWIpwiQtEOx5a1bQ5Zme2et/HwtD++c+fNB7mMSHQn0pYEtmiECrD9rTv/f531t9TJvFcZOTnVUuKGXAFYI2Mlc6n/vZz+B6CPP/395E/7w0iNogKb2u/t/beitjoftRbwhHfeiZnnZQOd0G66DRFM4f/BWqnVD91LoBmQhNAmBBoNkyHWN7T1gViGUgJ8FIvJUZ8bemTa+CjITrgmxkHmjyiV005iDkO6iMIAtknb2A/tsbS+ITXVNtSkSqVHhZ1uWdvOEQ+MO5/j/19yRBcQkHK6hXEUEqToRgkB7eCiA1GycbXqNWrWiWdyvpQYVz0ibNPznVYeuO6eu2676ZpdCOaXQ6Veo3ZMURvoBJgG+kAcBogXgAySpBIFSZxYq3/RWUwPRiiVzWGTBrFD+/cX54lHs/2xaECSW8KwEj3qQw5sCyMjbpqseAtz39TB3WEv3iDWsOI5Qcx7hhBYkNe1/B2D9+5zP70p7dt+7NAltPwNwNy3eMXlw8fH8DtvPHmDGQmw6uJ40NYjFx6gQNfNh1riPUEgApMIEyUOERJAGQNCMT1WwICMZsSTiMEmbME0ciBaeTbMBF3L371LzL5X9u2qMcPqE7rnvVtVADGSXUX3mZAZGVYMU3sI1hiuvp07bd6rBv29d7dOLS9Q3ncsOjL3Jc/nLBGhEYOIAeAgpdLJi3jF5dPvCQqTwxAtoS2FKTPmeWwwYCPpWX6NZdfxiqutrnDsSPZR2+zxs+GZ9uK3Sjr+8cVt5x3eJOZVZ6Dn4v+OoIsvL22UM0+bO5pyxzRqm8bmsb/4oquaNM3VopnfI4W6oDJNGdRF30ElXjT38tGj5Z0WaVpG2ztOe5OnFH+dJ2upFZyTnbVCi2ze1+Ip3uTTHfaW0aC/dNZe/7jYXvy23g5HHaKFi9tVKbHYxUOnZl2er2kbY6/Y702eXPR8nrS5SnAmlJJOcWdGeVVTceWSvr99fujiDw48yF/QVhC9JFgr7HClnXwpXuF/rOJ3tg7PpWXhoaLI0HmXPHBqZL9R7ktrn3ALyMU1TmWFRbpIz0sXE4ZtNX3yxbxeuiiu2tpaLrgmORugFXCdkx8SbicuMd5gwt3VHmjCe1NnbhhlW2QKOnIdwcW/IB1bZlRObKybY8orrmkoLcpX/tGKR9SmrZeneub4hd6J2sr6+lsdOSUVVVpNLleFmlnbQN7fouQ6qwrtMvBYrIL1sz3Drg7O3DyamzcIv3NyfgtcOveosK11oKBqMac3N9cYYbhV6zaYE/24NMt4tHFj0uaNl3X6XUtk0VtlQDpaGlCS5dC6k+TJqsyjZseA5f/EuPoBb5dTJXz7+LQZW57aqGY0SCA4elxppwequQAQDIjRv8AZqlcJPYUuUUWa5OmTaZR6rKcIdMpDgUD96h1HidyA3QCrwnxmVdLqpKqyzNr87Keq0eueqta0L7tstSRYJ0EwzXghAUETcdSUVApxmtVoxykYr1B+RIKozeei4IQe4GsjvtjJfLzk8cQ38PlMRSbtEuISCL/okEliejAIIF+UK4O+mpxGKU1MJouY50P97IEJQh42LlPm0cQeMNUVlFBQQM/eoCBQnjUQJf8C3xmg0KlBGwooZ9rx9wAA) format('woff2');}@font-face{font-family:'Schibsted Grotesk';font-weight:800;font-style:normal;src:url(data:font/woff2;base64,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) format('woff2');}.m500{font-family:'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;font-weight:500;}.s800{font-family:'Schibsted Grotesk', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;font-weight:800;}text{font-kerning:normal;}</style>
+<clipPath id="card"><rect width="1584" height="396" rx="0"/></clipPath>
+<radialGradient id="glow" cx="0.08" cy="1.0" r="0.55">
+<stop offset="0" stop-color="#006dfe" stop-opacity="0.24"/>
+<stop offset="0.55" stop-color="#006dfe" stop-opacity="0.060"/>
+<stop offset="1" stop-color="#006dfe" stop-opacity="0"/>
+</radialGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#fefefe" stroke-opacity="0.05" stroke-width="1.5"/></pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0.3" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<mask id="gridfade"><rect width="1584" height="396" fill="url(#fade)"/></mask>
+<filter id="markglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceAlpha" stdDeviation="40" result="b"/><feFlood flood-color="#006dfe" flood-opacity="0.7"/><feComposite in2="b" operator="in" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1584" height="396" fill="#061121"/>
+<rect width="1584" height="396" fill="url(#glow)"/>
+<rect width="1584" height="396" fill="url(#grid)" mask="url(#gridfade)"/>
+<text x="536" y="164" class="s800" font-size="66" letter-spacing="-0.035em" fill="#fefefe">Building AI-powered</text>
+<text x="536" y="238" class="s800" font-size="66" letter-spacing="-0.035em" fill="#fefefe">workflows in production</text>
+<rect x="540" y="268" width="92" height="5" rx="2.5" fill="#006dfe"/>
+<text x="540" y="322" class="m500" font-size="20" letter-spacing="0.12em" fill="#b4bfce"><tspan fill="#b4bfce">SENIOR ENGINEER</tspan><tspan fill="#4c9aff">  ·  </tspan><tspan fill="#b4bfce">AI SYSTEMS</tspan><tspan fill="#4c9aff">  ·  </tspan><tspan fill="#b4bfce">SCALABLE SOLUTIONS</tspan></text>
+</g>
 
-  <rect width="1584" height="396" fill="#0b0d0e"/>
-  <rect width="1584" height="396" fill="url(#gridB)"/>
-  <rect width="1584" height="396" fill="url(#glowB)"/>
-
-  <!-- planet-limb arc in the lower-left, brand-green rim light -->
-  <circle cx="120" cy="640" r="410" fill="url(#arcFill)"/>
-  <circle cx="120" cy="640" r="410" fill="none" stroke="#3ddc97" stroke-width="2" stroke-opacity="0.5"/>
-  <circle cx="120" cy="640" r="418" fill="none" stroke="#6db3f2" stroke-width="10" stroke-opacity="0.06"/>
-
-  <!-- faint dither dots top-right -->
-  <g fill="#3ddc97" fill-opacity="0.22">
-    <circle cx="1500" cy="40" r="1.5"/><circle cx="1524" cy="58" r="1.5"/><circle cx="1548" cy="42" r="1.5"/>
-    <circle cx="1482" cy="66" r="1.5"/><circle cx="1516" cy="84" r="1.5"/><circle cx="1546" cy="70" r="1.5"/>
-  </g>
-
-  <!-- headline -->
-  <text x="540" y="150" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#e8eae8">Building AI-powered</text>
-  <text x="540" y="214" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#e8eae8">workflows in production</text>
-
-  <!-- accent underline -->
-  <rect x="542" y="242" width="92" height="5" rx="2.5" fill="#3ddc97"/>
-
-  <!-- kicker -->
-  <text x="542" y="300" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="4" fill="#a3adb0">SENIOR ENGINEER<tspan fill="#3ddc97">  ·  </tspan>AI SYSTEMS<tspan fill="#3ddc97">  ·  </tspan>SCALABLE SOLUTIONS</text>
 </svg>
